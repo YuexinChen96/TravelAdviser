@@ -1,0 +1,18 @@
+1. Page 1 - user :
+  login | logout | signup | guest
+
+2. Page 2 - information :
+  input:
+  departure | destination | start_date | end_date
+  price range | occupation ? | life_type | special requirement (early start)
+  hobbies
+  
+  output:
+  travel type | 
+  Recommand places |
+  detailed plan daily |  -> cost
+  
+  
+  duty:
+  Nat -> construct backend
+  Kevin -> Frontend
