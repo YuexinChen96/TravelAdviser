@@ -16,3 +16,15 @@
   duty:
   Nat -> construct backend
   Kevin -> Frontend
+
+
+6/18:
+ - Data acquistion:
+ hotel - Nat
+ fight - Nat
+ train - Kevin(Nat)
+ spots - Kevin(Nat)
+
+ DB schema - Kath
+ 
+ From Nanjing to Taizhou
